@@ -4,4 +4,4 @@ So far in coding, I know a little bit of HTML, CSS and Javascript. I have made a
 
 I will soon be releasing some repositories related to Minecraft here and will make YouTube videos on them so be on lookout.
 
-I'll give you two names for now - "Minecraft but it's a 2D Infinite Runner Game" and "Hypixel Bedwars - A Guide".
+I am currently in the process of making two projects. They'll be released soon considering they work perfectly and I'm able to complete them.
